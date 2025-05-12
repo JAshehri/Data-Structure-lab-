@@ -1,5 +1,3 @@
-
-// Node class with a generic type
 class Node<E> {
     E data;
     Node<E> next;
@@ -22,7 +20,6 @@ class Node<E> {
     }
 }
 
-// Circular Linked List class
 class CircularLinkedList<E> {
     private Node<E> tail;
     private Node<E> head;
@@ -174,8 +171,7 @@ class CircularLinkedList<E> {
     }
 }
 
-// **Testing the Circular Linked List**
-public class LinkedListTest {
+public class lab4_CircularLinkedList {
     public static void main(String[] args) {
         CircularLinkedList<Integer> myList = new CircularLinkedList<>();
 
