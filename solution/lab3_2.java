@@ -1,6 +1,3 @@
-// joud alshehri 2230006037
-// alreem alkhaldi 2230003587
-
 class Node<E> {
     private E element;
     private Node<E> next;
@@ -188,7 +185,7 @@ class LinkedList<E> {
     
 }
 
-public class Main {
+public class lab3_2 {
     public static void main(String[] args) {
         
         LinkedList myList = new LinkedList();
