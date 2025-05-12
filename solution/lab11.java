@@ -1,4 +1,4 @@
-public class Main {
+public class lab11 {
 
     static class TreeNode {
         int value;
