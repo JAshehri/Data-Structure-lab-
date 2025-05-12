@@ -1,4 +1,4 @@
-public class Main {
+public class lab9_2 {
     private int[] queue;
     private int frontIndex = 0;
     private int rearIndex = 0;
