@@ -1,6 +1,3 @@
-
-// lab 7 array
-
 class StackArray {
     private int[] stack;
     private int top;
@@ -70,8 +67,6 @@ class StackArray {
         System.out.println("Stack is now empty.");
     }
 }
-
-//lab 7 linked list
 
 class StackLinkedList {
     private static class Node {
@@ -159,7 +154,7 @@ class StackLinkedList {
     }
 }
 
-public class Main {
+public class lab7 {
     public static void main(String[] args) {
 
         StackArray S1 = new StackArray(5);
