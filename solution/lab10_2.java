@@ -71,7 +71,7 @@ class DoubleEndedQueue {
     }
 }
 
-class Main {
+class lab10_2 {
     public static void main(String[] args) {
         DoubleEndedQueue dq = new DoubleEndedQueue();
         dq.EnQueueFront(10);
