@@ -179,7 +179,7 @@ class Dlinkedlist<E> {
     }
 }
 
-public class Main {
+public class lab5 {
     public static void main(String[] args) {
         Dlinkedlist<Integer> list = new Dlinkedlist<>();
 
