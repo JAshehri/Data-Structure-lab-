@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class lab12 {
     static class Edge {
         char dest;
         int weight;
