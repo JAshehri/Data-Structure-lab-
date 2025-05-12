@@ -76,7 +76,7 @@ class LinearQueue {
     }
 }
 
-public class Main {
+public class lab9 {
     public static void main(String[] args) {
         LinearQueue myQueue = new LinearQueue(5);
         myQueue.enqueue(10);
