@@ -75,7 +75,7 @@ class LinkedList<E> {
     }
 }
 
-public class Main {
+public class lab3 {
     public static void main(String[] args) {
         LinkedList<Object> myList = new LinkedList<>();
         System.out.println("***The Linked List Before adding elements***");
