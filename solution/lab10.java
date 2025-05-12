@@ -64,7 +64,7 @@ class CircularQueue {
     }
 }
 
-public class Main {
+public class lab10 {
     public static void main(String[] args) {
         CircularQueue cq = new CircularQueue();
         cq.Enqueue(10);
